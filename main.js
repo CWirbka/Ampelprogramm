@@ -11,7 +11,7 @@ var human = {
 
 
 // If statements
-// Toller Kommentar
+// Toller Kommentar2
 
 var age = prompt("Trage dein Alter ein:");
 
